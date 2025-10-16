@@ -20,8 +20,8 @@ public class Competition {
 
     private String city;
 
-    @JsonProperty("base_entry_fee_lowest_denomination")
-    private double baseEntryFeeLowestDenomination;
+   /* @JsonProperty("base_entry_fee_lowest_denomination")
+    private double baseEntryFeeLowestDenomination;*/
 
     @JsonProperty("registration_open")
     private String registrationStartDate;
